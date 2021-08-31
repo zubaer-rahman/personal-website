@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgrey;
+}
+#name-highlight{
+ color: #c40f4b;
+ font-weight:800;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 7% 0% 6% 5%;
+}
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 7% 0% 16% 6%;
+}
+.work-area{
+    text-align: center;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+    padding: 2% 0% 2% 3%;  
+}
+.work-area img{
+    width: 30%;
+    float: left;
+    padding: 1.2%;
+}
+.review-area{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+
+
+
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 15px;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    background-color: #c40f4b;
+    text-decoration: none;
+    padding: 5px 20px;
+    color: white;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 35px;
+}
+span{
+    font-size: 10px;
+ }
+.message-button{
+    background-color: #c40f4b;
+    text-decoration: none;
+    padding: 15px 70px 25px 70px;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+h6{
+    color: dimgrey;
+}
